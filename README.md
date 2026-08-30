@@ -1,4 +1,4 @@
-# 🍔 OrderIt — MERN Food Ordering App
+# OrderIt — MERN Food Ordering App
 
 A full-stack food ordering web application built with the MERN stack. Users can browse restaurants, explore menus, add items to cart, and place orders with Stripe payment integration. Admins can manage restaurants, menus, and food items — with AI-powered dish description generation.
 
