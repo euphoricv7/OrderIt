@@ -1,0 +1,15 @@
+# Environment
+Backend/config/config.env
+
+# Dependencies
+node_modules/
+Backend/node_modules/
+frontend/node_modules/
+
+# Mac junk
+.DS_Store
+**/.DS_Store
+
+# Accidental upload
+Backend/AMP-44_61fb8b8840826_if4vz9.jpg
+Backend/default_logo.png
